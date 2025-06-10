@@ -1,0 +1,56 @@
+# Core Python Libraries
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+
+# Deep Learning
+tensorflow
+keras
+torch
+torchvision
+torchaudio
+
+# Data Visualization
+plotly
+altair
+
+# Data Preprocessing / Feature Engineering
+imbalanced-learn
+category_encoders
+
+# Natural Language Processing (NLP)
+nltk
+spacy
+textblob
+transformers
+
+# Model Deployment & APIs
+flask
+fastapi
+uvicorn
+
+# Jupyter Notebooks
+jupyterlab
+notebook
+ipykernel
+
+# Model Evaluation & Experiment Tracking
+mlflow
+optuna
+
+# Other Useful Tools
+xgboost
+lightgbm
+catboost
+openpyxl
+tqdm
+joblib
+pydantic
+
+# For working with files and paths
+python-dotenv
+pathlib
+
